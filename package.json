@@ -1,0 +1,25 @@
+{
+  "name": "price-inspector",
+  "version": "0.0.1",
+  "description": "Web crawler designed to keep track of prices on some period of time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DontEatRice/price-inspector.git"
+  },
+  "keywords": [
+    "Nest.js",
+    "Nest",
+    "React",
+    "Web"
+  ],
+  "author": "Jakub Sikorski <jakub.sikorski0211@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DontEatRice/price-inspector/issues"
+  },
+  "homepage": "https://github.com/DontEatRice/price-inspector#readme"
+}
