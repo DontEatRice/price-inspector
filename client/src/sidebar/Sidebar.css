@@ -1,0 +1,29 @@
+.sidebar-content ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 5px;
+}
+
+.sidebar-hamburger {
+    display: none;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+.sidebar-content {
+    width: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+    .sidebar-content {
+        position: absolute;
+        width: 50%;
+        background-color: yellow;
+        
+    }
+
+    .sidebar-hamburger {
+        display: block;
+    }
+}
